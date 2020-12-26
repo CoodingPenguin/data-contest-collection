@@ -1,17 +1,16 @@
-# 데이터 분석 대회 코드 모음 
-
-그동안 참가한 **데이터 분석/아이디어 대회 코드 모음집**입니다.
-
-## 🚫 주의 사항
-
-- 일부 대회의 규정에 따라 데이터셋은 공개하지 않습니다.
-- 아이디어 대회를 제외한 분석 대회의 코드 관련 질문은 가능합니다.
-- 제 코드를 참고하는 것은 가능하지만 그대로 복붙은 불가능합니다. 
-- 만약 분석 결과를 참고하고 싶으신 경우 출처를 꼭 남겨주세요.
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/coodingpenguin/repository-guideline">
+    <img src="logo.png" alt="Logo" width="128" height="128">
+  </a>
+  <h3>Data Contest Collection</h3>
+  <small>데이터 분석/아이디어 대회 코드 모음집</small>
+</div>
 
 ## 🏆 참가 대회
 
-> **시상 여부 표시**    
+> **시상 여부 표시**  
 > `🥉` 장려상(3등) `🥈` 우수상(2등) `🥇` 대상(1등)
 
 - `2019` `분석` [김해시 화제발생 예측모델 개발](https://github.com/CoodingPenguin/data-contest-collection/tree/main/2019-gimhae-fire-prediction)
